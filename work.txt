@@ -8,8 +8,6 @@ Create new java file
 create order page
 create master file
 create page Tarik
-
 create page master_git
-
 create page git_location5
-
+create kotlin page
