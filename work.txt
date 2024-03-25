@@ -6,3 +6,4 @@ create sql file
 create java file
 Create new java file
 create order page
+create page Tarik
