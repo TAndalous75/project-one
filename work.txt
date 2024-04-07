@@ -11,8 +11,5 @@ create page Tarik
 create page master_git
 create page git_location5
 create kotlin page
-create tarik_master_pagina
-create tarik_pagina 
-
 Create dashboard
 
