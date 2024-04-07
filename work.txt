@@ -14,3 +14,5 @@ create kotlin page
 create tarik_master_pagina
 create tarik_pagina 
 
+Create dashboard
+
