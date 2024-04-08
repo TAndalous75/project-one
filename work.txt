@@ -1,7 +1,7 @@
 Create setting
 Create page home
 Create webview
-create page video
+
 create dashboard
 Create menu_pagina
 
