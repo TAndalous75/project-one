@@ -1,14 +1,5 @@
-Create video
-Create page webview
-create sql file
-create java file
-Create new java file
-create order page
-create master file
-create page Tarik
-create page master_git
-create page git_location5
-create kotlin page
-Create dashboard
-Create Page Login
-Create page forget pass
+Create setting
+Create page home
+create page webview
+create page video
+create dashboard
