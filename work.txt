@@ -1,4 +1,6 @@
+Create setting
+Create page home
+Create webview
 create page video
 create dashboard
-Create page login
-Create page forget pass
+
