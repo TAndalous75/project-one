@@ -1,5 +1,4 @@
 Create setting
 Create page home
-create page webview
 create page video
 create dashboard
