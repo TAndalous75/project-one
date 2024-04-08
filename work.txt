@@ -1,7 +1,4 @@
-Create setting
-Create page home
 Create webview
 create dashboard
-Create menu_pagina
 Create page login
 
